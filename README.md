@@ -49,3 +49,4 @@ python main.py
 ## Contact 
 - [Kanon14](https://github.com/Kanon14)
 - [Project Link](https://github.com/Kanon14/Rock-Paper-Scissors-Hand-Game-CV)
+- Note: This project was created by Kanon14. If you find any issues, have questions, or want to provide feedback, please don't hesitate to reach out. Thank you for exploring this project!
