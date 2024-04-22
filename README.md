@@ -20,6 +20,14 @@ cd Rock-Paper-Scissors-Hand-Game-CV
 - Python 3.8 or higher
 - Webcam
 
+### Create a Conda Environment
+```bash
+conda create -n gamenv python=3.8 -y
+```
+```bash
+conda activate gamenv
+```
+
 ### Libraries
 - The game uses several Python libraries listed in the requirements.txt file. Install them using the following command:
 
